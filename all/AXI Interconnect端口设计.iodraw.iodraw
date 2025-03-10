@@ -94,9 +94,6 @@
         <mxCell id="XW_zfOqRx0S0TlBBAfak-26" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;系&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;统&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;复&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-family: 宋体; background-color: initial;&quot;&gt;位&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.71" y="390" width="17" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XW_zfOqRx0S0TlBBAfak-28" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;AXI Master接口&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="192" y="609" width="110" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
