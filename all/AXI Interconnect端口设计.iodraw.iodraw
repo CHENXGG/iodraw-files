@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-18" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;SI（可拓展至&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;16个）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="255" width="117" height="30" as="geometry" />
+          <mxGeometry x="315" y="255" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-19" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;AXI Interconnect&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="423" y="195" width="140" height="30" as="geometry" />
@@ -70,8 +70,8 @@
         <mxCell id="XW_zfOqRx0S0TlBBAfak-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="165" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XW_zfOqRx0S0TlBBAfak-21" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;AXI Slave接口&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;（可拓展至&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;16个&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="543.5" y="255" width="115.5" height="30" as="geometry" />
+        <mxCell id="XW_zfOqRx0S0TlBBAfak-21" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;MI&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;（可拓展至&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;16个&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="543.5" y="255" width="136.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="538.5" y="165" width="110" height="90" as="geometry" />
