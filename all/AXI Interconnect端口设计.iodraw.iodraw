@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XW_zfOqRx0S0TlBBAfak-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="475" width="110" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="480" width="136" height="80" as="geometry" />
         </mxCell>
@@ -65,10 +62,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-18" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;AXI Master接口&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="565" width="70" height="30" as="geometry" />
+          <mxGeometry x="185" y="565" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-19" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;主接口&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="585" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_zfOqRx0S0TlBBAfak-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="475" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
