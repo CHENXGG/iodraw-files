@@ -13,8 +13,8 @@
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="550" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="p-Nahf-Cj0YVheSuoHq5-5" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;接&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;协&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;议&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="360" width="20" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
