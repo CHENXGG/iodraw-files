@@ -5,127 +5,94 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XW_zfOqRx0S0TlBBAfak-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="150" width="136" height="80" as="geometry" />
+          <mxGeometry x="410" y="170" width="136" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-5" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="XW_zfOqRx0S0TlBBAfak-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="170" as="sourcePoint" />
-            <mxPoint x="190" y="90" as="targetPoint" />
+            <mxPoint x="320" y="190" as="sourcePoint" />
+            <mxPoint x="420" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-6" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;写操作端口&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="145" width="80" height="30" as="geometry" />
+          <mxGeometry x="330" y="165" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-7" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;读操作端口&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="170" width="80" height="30" as="geometry" />
+          <mxGeometry x="330" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-8" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="195" as="sourcePoint" />
-            <mxPoint x="180" y="195" as="targetPoint" />
+            <mxPoint x="320" y="215" as="sourcePoint" />
+            <mxPoint x="410" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-9" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;时钟端口&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="195" width="80" height="30" as="geometry" />
+          <mxGeometry x="330" y="215" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-10" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="220" as="sourcePoint" />
-            <mxPoint x="180" y="220" as="targetPoint" />
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="410" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-11" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="316" y="170" as="sourcePoint" />
-            <mxPoint x="406" y="170" as="targetPoint" />
+            <mxPoint x="546" y="190" as="sourcePoint" />
+            <mxPoint x="636" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-12" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;写操作端口&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="145" width="80" height="30" as="geometry" />
+          <mxGeometry x="556" y="165" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-13" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;读操作端口&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="170" width="80" height="30" as="geometry" />
+          <mxGeometry x="556" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-14" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="316" y="195" as="sourcePoint" />
-            <mxPoint x="406" y="195" as="targetPoint" />
+            <mxPoint x="546" y="215" as="sourcePoint" />
+            <mxPoint x="636" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-15" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;时钟端口&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="195" width="80" height="30" as="geometry" />
+          <mxGeometry x="556" y="215" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-16" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="316" y="220" as="sourcePoint" />
-            <mxPoint x="406" y="220" as="targetPoint" />
+            <mxPoint x="546" y="240" as="sourcePoint" />
+            <mxPoint x="636" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-18" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;AXI Master接口（可拓展至&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;16个）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="235" width="117" height="30" as="geometry" />
+          <mxGeometry x="315" y="255" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-19" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;AXI Interconnect&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="193" y="175" width="140" height="30" as="geometry" />
+          <mxGeometry x="423" y="195" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="145" width="110" height="90" as="geometry" />
+          <mxGeometry x="310" y="165" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-21" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;AXI Slave接口&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;（可拓展至&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;16个&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="313.5" y="235" width="115.5" height="30" as="geometry" />
+          <mxGeometry x="543.5" y="255" width="115.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="308.5" y="145" width="110" height="90" as="geometry" />
+          <mxGeometry x="538.5" y="165" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="70" as="sourcePoint" />
-            <mxPoint x="220" y="150" as="targetPoint" />
+            <mxPoint x="450" y="90" as="sourcePoint" />
+            <mxPoint x="450" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-24" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;系&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;统&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;时&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;钟&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="60" width="17" height="80" as="geometry" />
+          <mxGeometry x="430" y="80" width="17" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="257.71" y="70" as="sourcePoint" />
-            <mxPoint x="257.71" y="150" as="targetPoint" />
+            <mxPoint x="487.71" y="90" as="sourcePoint" />
+            <mxPoint x="487.71" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XW_zfOqRx0S0TlBBAfak-26" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;系&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;统&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;复&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-family: 宋体; background-color: initial;&quot;&gt;位&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237.70999999999998" y="60" width="17" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XW_zfOqRx0S0TlBBAfak-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="570" width="310" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="XW_zfOqRx0S0TlBBAfak-30" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;AXI Interconnect&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="178" y="400" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XW_zfOqRx0S0TlBBAfak-34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="610" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XW_zfOqRx0S0TlBBAfak-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XW_zfOqRx0S0TlBBAfak-34">
-          <mxGeometry width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XW_zfOqRx0S0TlBBAfak-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="XW_zfOqRx0S0TlBBAfak-34">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="30" as="sourcePoint" />
-            <mxPoint x="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XW_zfOqRx0S0TlBBAfak-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="XW_zfOqRx0S0TlBBAfak-34">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="30" as="sourcePoint" />
-            <mxPoint x="10" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XW_zfOqRx0S0TlBBAfak-35" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;主数据链路&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="256" y="610" width="62" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XW_zfOqRx0S0TlBBAfak-36" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;主数据链路&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429" y="610" width="62" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XW_zfOqRx0S0TlBBAfak-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="286" y="615" width="64" height="10" as="geometry" />
+          <mxGeometry x="467.71" y="80" width="17" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
