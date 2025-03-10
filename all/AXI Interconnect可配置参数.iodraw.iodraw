@@ -20,16 +20,16 @@
           <mxGeometry x="807" y="410" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-8" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;地址范围&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="410" width="20" height="80" as="geometry" />
+          <mxGeometry x="840" y="380" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-9" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;ID范围&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="410" width="20" height="80" as="geometry" />
+          <mxGeometry x="870" y="380" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-10" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;安全&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="410" width="20" height="80" as="geometry" />
+          <mxGeometry x="900" y="380" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-11" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;窄突发支持&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="410" width="20" height="80" as="geometry" />
+          <mxGeometry x="930" y="380" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-12" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;只读只写控制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="380" width="20" height="110" as="geometry" />
