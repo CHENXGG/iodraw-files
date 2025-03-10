@@ -136,12 +136,12 @@
         </mxCell>
         <mxCell id="a51qjbkjjCDvXjPJ7odC-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1006" y="1100" as="sourcePoint" />
-            <mxPoint x="1366" y="1040" as="targetPoint" />
+            <mxPoint x="1030" y="860" as="sourcePoint" />
+            <mxPoint x="1404" y="800" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1036" y="1090" />
-              <mxPoint x="1106" y="1090" />
-              <mxPoint x="1326" y="1100" />
+              <mxPoint x="1060" y="850" />
+              <mxPoint x="1130" y="850" />
+              <mxPoint x="1364" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
