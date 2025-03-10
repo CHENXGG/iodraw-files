@@ -126,8 +126,11 @@
         <mxCell id="Pdh6jnHVdhQUowGYGn-5-3" value="&lt;font face=&quot;宋体&quot;&gt;axi_data_fifo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="270" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Pdh6jnHVdhQUowGYGn-5-4" value="&lt;font face=&quot;宋体&quot;&gt;data_fifo_bank&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pdh6jnHVdhQUowGYGn-5-4" value="&lt;font face=&quot;宋体&quot;&gt;crossbar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="240" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pdh6jnHVdhQUowGYGn-5-5" value="&lt;font face=&quot;宋体&quot;&gt;data_fifo_bank&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="270" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
