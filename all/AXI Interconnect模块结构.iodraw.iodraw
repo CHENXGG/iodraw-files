@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="141G3Gbq003riImSM_K--1" value="&lt;font face=&quot;宋体&quot;&gt;axi_interconnect&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="180" width="170" height="20" as="geometry" />
+          <mxGeometry x="640" y="180" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="141G3Gbq003riImSM_K--22" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="970" y="240" width="200" height="50" as="geometry" />
