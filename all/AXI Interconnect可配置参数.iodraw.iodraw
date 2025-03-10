@@ -69,16 +69,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-53" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1090" y="870" width="110" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=10;" parent="p-Nahf-Cj0YVheSuoHq5-53" vertex="1">
-          <mxGeometry width="110" height="130" as="geometry" />
+          <mxGeometry x="1120" y="890" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-54" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:&lt;br/&gt;10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;寄存器片设置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="p-Nahf-Cj0YVheSuoHq5-53" vertex="1">
           <mxGeometry x="20" y="10" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-55" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:&lt;br/&gt;10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;交叉开关连接&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="p-Nahf-Cj0YVheSuoHq5-53" vertex="1">
           <mxGeometry x="50" y="10" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p-Nahf-Cj0YVheSuoHq5-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="850" width="90" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
