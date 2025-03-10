@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a51qjbkjjCDvXjPJ7odC-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1120" y="890" width="110" height="130" as="geometry" />
+          <mxGeometry x="1170" y="850" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-53" value="" style="group" parent="a51qjbkjjCDvXjPJ7odC-1" vertex="1" connectable="0">
           <mxGeometry width="110" height="130" as="geometry" />
@@ -82,6 +82,16 @@
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=10;" parent="a51qjbkjjCDvXjPJ7odC-1" vertex="1">
           <mxGeometry width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a51qjbkjjCDvXjPJ7odC-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;shadow=1;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="470" as="sourcePoint" />
+            <mxPoint x="1350" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1270" y="550" />
+              <mxPoint x="1440" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
