@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a51qjbkjjCDvXjPJ7odC-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1200" y="450" width="170" height="110" as="geometry" />
+          <mxGeometry x="1220" y="450" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="a51qjbkjjCDvXjPJ7odC-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=10;" vertex="1" parent="a51qjbkjjCDvXjPJ7odC-19">
           <mxGeometry width="170" height="70" as="geometry" />
@@ -145,7 +145,7 @@
           <mxGeometry x="20" y="40" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a51qjbkjjCDvXjPJ7odC-14" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:&lt;br/&gt;10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;交叉核心配置&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="1220" y="420" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
