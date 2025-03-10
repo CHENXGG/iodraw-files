@@ -177,6 +177,12 @@
         <mxCell id="Pdh6jnHVdhQUowGYGn-5-20" value="&lt;font face=&quot;宋体&quot;&gt;axi_register_slice&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="730" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Pdh6jnHVdhQUowGYGn-5-21" value="&lt;font face=&quot;宋体&quot;&gt;addr_arbiter&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="760" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pdh6jnHVdhQUowGYGn-5-22" value="&lt;font face=&quot;宋体&quot;&gt;mux_enc&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="620" width="160" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
