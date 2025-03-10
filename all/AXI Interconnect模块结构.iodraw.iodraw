@@ -12,6 +12,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Pdh6jnHVdhQUowGYGn-5-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="141G3Gbq003riImSM_K--1" target="Pdh6jnHVdhQUowGYGn-5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pdh6jnHVdhQUowGYGn-5-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="141G3Gbq003riImSM_K--1" target="141G3Gbq003riImSM_K--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="141G3Gbq003riImSM_K--1" value="&lt;font face=&quot;宋体&quot;&gt;axi_interconnect&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="180" width="160" height="20" as="geometry" />
         </mxCell>
