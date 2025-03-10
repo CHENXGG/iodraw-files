@@ -94,8 +94,13 @@
         <mxCell id="a51qjbkjjCDvXjPJ7odC-28" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;MI&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="710" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a51qjbkjjCDvXjPJ7odC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p-Nahf-Cj0YVheSuoHq5-4" target="a51qjbkjjCDvXjPJ7odC-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="a51qjbkjjCDvXjPJ7odC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="p-Nahf-Cj0YVheSuoHq5-4" target="a51qjbkjjCDvXjPJ7odC-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="640" />
+              <mxPoint x="852" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
