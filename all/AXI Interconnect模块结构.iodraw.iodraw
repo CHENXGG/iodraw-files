@@ -165,8 +165,14 @@
         <mxCell id="Pdh6jnHVdhQUowGYGn-5-16" value="&lt;font face=&quot;宋体&quot;&gt;mux_enc&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="610" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Pdh6jnHVdhQUowGYGn-5-17" value="&lt;font face=&quot;宋体&quot;&gt;wdata_mux&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pdh6jnHVdhQUowGYGn-5-17" value="&lt;font face=&quot;宋体&quot;&gt;addr_decoder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="640" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pdh6jnHVdhQUowGYGn-5-18" value="&lt;font face=&quot;宋体&quot;&gt;comparator_static&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="670" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pdh6jnHVdhQUowGYGn-5-19" value="&lt;font face=&quot;宋体&quot;&gt;addr_decoder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="650" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
