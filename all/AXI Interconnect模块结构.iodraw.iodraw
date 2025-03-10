@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="EcHcpkznza9JZAGG-W1a">
-    <mxGraphModel dx="683" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,11 +207,11 @@
         <mxCell id="Pdh6jnHVdhQUowGYGn-5-30" value="&lt;font face=&quot;宋体&quot;&gt;mux_enc&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="420" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Pdh6jnHVdhQUowGYGn-5-31" value="&lt;font face=&quot;宋体&quot;&gt;mux_enc&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pdh6jnHVdhQUowGYGn-5-31" value="&lt;font face=&quot;宋体&quot;&gt;axic_register_slice&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="450" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Pdh6jnHVdhQUowGYGn-5-32" value="&lt;font face=&quot;宋体&quot;&gt;mux_enc&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="460" width="160" height="20" as="geometry" />
+        <mxCell id="Pdh6jnHVdhQUowGYGn-5-32" value="&lt;font face=&quot;宋体&quot;&gt;decerr_slave&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="480" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
