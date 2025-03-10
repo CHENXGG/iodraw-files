@@ -71,8 +71,8 @@
         <mxCell id="a51qjbkjjCDvXjPJ7odC-13" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:&lt;br/&gt;10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot; lang=&quot;EN-US&quot;&gt;数据路径&lt;/span&gt;F&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 11pt; background-color: initial;&quot;&gt;I&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 11pt; background-color: initial;&quot;&gt;F&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 11pt; background-color: initial;&quot;&gt;O&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 11pt; background-color: initial;&quot;&gt;设置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a51qjbkjjCDvXjPJ7odC-19">
           <mxGeometry x="20" y="40" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a51qjbkjjCDvXjPJ7odC-14" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:&lt;br/&gt;10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;交叉核心配置&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="420" width="120" height="40" as="geometry" />
+        <mxCell id="a51qjbkjjCDvXjPJ7odC-14" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:&lt;br/&gt;10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;交叉核心配置&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="a51qjbkjjCDvXjPJ7odC-19">
+          <mxGeometry y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a51qjbkjjCDvXjPJ7odC-25" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1230" y="930" width="170" height="140" as="geometry" />
@@ -93,16 +93,16 @@
           <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="1156" y="150" width="170" height="70" as="geometry" />
+          <mxGeometry x="1190" y="515" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-38" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:&lt;br/&gt;10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;寄存器片设置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1176" y="160" width="130" height="20" as="geometry" />
+          <mxGeometry x="1210" y="525" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-39" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:&lt;br/&gt;10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot; lang=&quot;EN-US&quot;&gt;数据路径&lt;/span&gt;F&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 11pt; background-color: initial;&quot;&gt;I&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 11pt; background-color: initial;&quot;&gt;F&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 11pt; background-color: initial;&quot;&gt;O&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 11pt; background-color: initial;&quot;&gt;设置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1176" y="190" width="130" height="20" as="geometry" />
+          <mxGeometry x="1210" y="555" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a51qjbkjjCDvXjPJ7odC-3" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:11.0pt;mso-bidi-font-size:&#xa;10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;&#xa;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;数据链路配置&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1156" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="1190" y="485" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
