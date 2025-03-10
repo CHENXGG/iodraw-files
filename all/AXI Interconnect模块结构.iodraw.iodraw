@@ -7,6 +7,13 @@
         <mxCell id="141G3Gbq003riImSM_K--1" value="&lt;font face=&quot;宋体&quot;&gt;axi_interconnect&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="200" width="170" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="141G3Gbq003riImSM_K--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="141G3Gbq003riImSM_K--2" target="141G3Gbq003riImSM_K--3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="141G3Gbq003riImSM_K--2" value="&lt;font face=&quot;宋体&quot;&gt;register_slice_bank&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="160" height="20" as="geometry" />
         </mxCell>
