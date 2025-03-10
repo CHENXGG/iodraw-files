@@ -62,38 +62,8 @@
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-39" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:&lt;br/&gt;10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;数据路径FIFO设置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="860" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-40" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="880" y="450" width="300" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=10;" vertex="1" parent="p-Nahf-Cj0YVheSuoHq5-40">
-          <mxGeometry width="300" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-42" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;接&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;协&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;议&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p-Nahf-Cj0YVheSuoHq5-40">
-          <mxGeometry x="20" y="10" width="20" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-43" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;数据位宽&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p-Nahf-Cj0YVheSuoHq5-40">
-          <mxGeometry x="50" y="10" width="20" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-44" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;时钟频率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p-Nahf-Cj0YVheSuoHq5-40">
-          <mxGeometry x="80" y="10" width="20" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-45" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;地址范围&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p-Nahf-Cj0YVheSuoHq5-40">
-          <mxGeometry x="110" y="10" width="20" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-46" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;ID范围&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p-Nahf-Cj0YVheSuoHq5-40">
-          <mxGeometry x="140" y="10" width="20" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-47" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;安全&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p-Nahf-Cj0YVheSuoHq5-40">
-          <mxGeometry x="170" y="10" width="20" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-48" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;窄突发支持&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p-Nahf-Cj0YVheSuoHq5-40">
-          <mxGeometry x="200" y="10" width="20" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-49" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;只读只写控制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p-Nahf-Cj0YVheSuoHq5-40">
-          <mxGeometry x="230" y="10" width="20" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-50" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.6667px; text-align: left;&quot;&gt;用户信号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p-Nahf-Cj0YVheSuoHq5-40">
-          <mxGeometry x="260" y="10" width="20" height="110" as="geometry" />
+        <mxCell id="p-Nahf-Cj0YVheSuoHq5-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="970" y="850" width="300" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
