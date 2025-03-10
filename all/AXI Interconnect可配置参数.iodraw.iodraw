@@ -46,7 +46,7 @@
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-15" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:11.0pt;mso-bidi-font-size:&lt;br/&gt;10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;MI&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:11.0pt;mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:&lt;br/&gt;宋体;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;/SI配置参数&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="p-Nahf-Cj0YVheSuoHq5-16">
           <mxGeometry width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p-Nahf-Cj0YVheSuoHq5-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;shadow=1;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="p-Nahf-Cj0YVheSuoHq5-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;shadow=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="570" as="sourcePoint" />
             <mxPoint x="940" y="720" as="targetPoint" />
@@ -60,7 +60,7 @@
           <mxGeometry x="990" y="860" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="p-Nahf-Cj0YVheSuoHq5-39" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:&lt;br/&gt;10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;数据路径FIFO设置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="890" width="30" height="110" as="geometry" />
+          <mxGeometry x="1020" y="860" width="40" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
