@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CPEkf1ofv0CR8lUreoJD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPEkf1ofv0CR8lUreoJD-5" target="CPEkf1ofv0CR8lUreoJD-35">
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;curved=1;" edge="1" parent="1" source="CPEkf1ofv0CR8lUreoJD-5" target="CPEkf1ofv0CR8lUreoJD-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-5" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12pt;&quot;&gt;AXI&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;交叉开关模块&lt;span lang=&quot;EN-US&quot;&gt;axi_crossbar&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="860" y="170" width="490" height="380" as="geometry" />
+          <mxGeometry x="860" y="180" width="490" height="380" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=3;dashed=1;fontFamily=宋体;dashPattern=8 8;" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
           <mxGeometry y="30" width="490" height="350" as="geometry" />
@@ -134,6 +134,39 @@
           <mxGeometry x="5" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;寄存器组模块register_slice_bank&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
+          <mxGeometry x="420" y="80" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="870" y="190" width="490" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=3;dashed=1;fontFamily=宋体;dashPattern=8 8;" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-46">
+          <mxGeometry y="30" width="490" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=7;dashed=1;fontFamily=宋体;" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-46">
+          <mxGeometry x="80" y="40" width="240" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-49" value="&lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;FIFO&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;组模块&lt;span lang=&quot;EN-US&quot;&gt;data_fifo_bank&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-46">
+          <mxGeometry x="20" y="80" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-50" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;升速器模块&lt;span lang=&quot;EN-US&quot;&gt;axi_upsizer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-46">
+          <mxGeometry x="100" y="80" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-51" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;协议转换模块&lt;span lang=&quot;EN-US&quot;&gt;protocol_conv_bank&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-46">
+          <mxGeometry x="340" y="80" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-52" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;降速器模块&lt;span lang=&quot;EN-US&quot;&gt;axi_downsizer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-46">
+          <mxGeometry x="260" y="80" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-53" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;时钟转换模块&lt;span lang=&quot;EN-US&quot;&gt;clock_converter&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-46">
+          <mxGeometry x="180" y="80" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-54" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 13px; display: inline !important;&quot;&gt;协议转换模块&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 13px;&quot;&gt;protocol_conv_bank&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-46">
+          <mxGeometry x="83" y="41" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-55" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;从数据链路1&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-46">
+          <mxGeometry x="5" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;寄存器组模块register_slice_bank&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-46">
           <mxGeometry x="420" y="80" width="40" height="280" as="geometry" />
         </mxCell>
       </root>
