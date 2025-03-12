@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CPEkf1ofv0CR8lUreoJD-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=7;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="168" y="250" width="232" height="300" as="geometry" />
+          <mxGeometry x="140" y="250" width="240" height="300" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-1" value="&lt;span style=&quot;font-size:10.5pt;font-family:&lt;br/&gt;宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;寄存器组模块register_slice_bank&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="40" height="280" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="240" y="260" width="40" height="280" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;协议转换模块&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;protocol_conv_bank&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="200" width="280" height="40" as="geometry" />
+          <mxGeometry x="133" y="210" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
