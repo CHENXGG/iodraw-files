@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-25" value="&lt;font style=&quot;font-size: 26px;&quot; face=&quot;宋体&quot;&gt;Master设备1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="240" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=2;endArrow=none;endFill=0;fontSize=26;fontStyle=0" parent="1" source="CPEkf1ofv0CR8lUreoJD-27" target="CPEkf1ofv0CR8lUreoJD-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -188,7 +188,7 @@
           <mxGeometry x="1090" y="540" width="30" height="200" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-59" value="&lt;font style=&quot;font-size: 26px;&quot; face=&quot;宋体&quot;&gt;Slave设备1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1450" y="240" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-60" value="&lt;font style=&quot;font-size: 26px;&quot; face=&quot;宋体&quot;&gt;Slave设备m&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="1450" y="770" width="120" height="60" as="geometry" />
