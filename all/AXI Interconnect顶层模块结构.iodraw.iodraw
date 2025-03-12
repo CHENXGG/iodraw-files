@@ -16,8 +16,8 @@
         <mxCell id="CPEkf1ofv0CR8lUreoJD-4" value="&lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;FIFO&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;组模块&lt;span lang=&quot;EN-US&quot;&gt;data_fifo_bank&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="230" y="200" width="40" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="CPEkf1ofv0CR8lUreoJD-5" value="&lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;FIFO&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;组模块&lt;span lang=&quot;EN-US&quot;&gt;data_fifo_bank&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="40" height="280" as="geometry" />
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-5" value="&lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;AXI&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;交叉开关模块&lt;span lang=&quot;EN-US&quot;&gt;axi_crossbar&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="40" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
