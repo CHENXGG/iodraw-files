@@ -148,6 +148,9 @@
         <mxCell id="wxM1UVATD-fBZKMPMKQW-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="275" width="20" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="wxM1UVATD-fBZKMPMKQW-40" value="互连开关" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
