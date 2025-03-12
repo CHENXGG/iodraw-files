@@ -10,6 +10,12 @@
         <mxCell id="CPEkf1ofv0CR8lUreoJD-13" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="60" y="180" width="400" height="380" as="geometry" />
         </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-29" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="CPEkf1ofv0CR8lUreoJD-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="204.5" as="sourcePoint" />
+            <mxPoint x="400" y="204.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=3;dashed=1;fontFamily=宋体;dashPattern=8 8;" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-13">
           <mxGeometry y="30" width="400" height="350" as="geometry" />
         </mxCell>
@@ -81,12 +87,6 @@
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-27" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;Master设备n&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-140" y="770" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CPEkf1ofv0CR8lUreoJD-29" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="610" as="sourcePoint" />
-            <mxPoint x="460" y="610" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
