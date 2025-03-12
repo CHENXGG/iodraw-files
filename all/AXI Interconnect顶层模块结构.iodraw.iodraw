@@ -176,10 +176,10 @@
           <mxGeometry x="1090" y="560" width="30" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-59" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;Slave设备1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1420" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1470" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CPEkf1ofv0CR8lUreoJD-60" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;Slave设备1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1430" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-60" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;Slave设备m&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1460" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
