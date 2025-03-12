@@ -73,10 +73,10 @@
         <mxCell id="CPEkf1ofv0CR8lUreoJD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="CPEkf1ofv0CR8lUreoJD-25" target="CPEkf1ofv0CR8lUreoJD-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CPEkf1ofv0CR8lUreoJD-25" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;Master设备0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-25" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;Master设备1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CPEkf1ofv0CR8lUreoJD-27" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;Master设备0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-27" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;Master设备n&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
