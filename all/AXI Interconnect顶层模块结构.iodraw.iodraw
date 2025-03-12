@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPEkf1ofv0CR8lUreoJD-5" target="CPEkf1ofv0CR8lUreoJD-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-5" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12pt;&quot;&gt;AXI&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;交叉开关模块&lt;span lang=&quot;EN-US&quot;&gt;axi_crossbar&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="560" width="140" height="160" as="geometry" />
         </mxCell>
