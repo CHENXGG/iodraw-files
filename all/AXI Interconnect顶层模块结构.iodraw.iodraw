@@ -130,7 +130,7 @@
         <mxCell id="CPEkf1ofv0CR8lUreoJD-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=3;dashed=1;fontFamily=宋体;dashPattern=8 8;" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
           <mxGeometry y="30" width="490" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="CPEkf1ofv0CR8lUreoJD-44" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12pt;&quot;&gt;FIFO&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;组模块&lt;span lang=&quot;EN-US&quot;&gt;data_fifo_bank&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;寄存器组模块register_slice_bank&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
           <mxGeometry x="420" y="80" width="40" height="280" as="geometry" />
         </mxCell>
       </root>
