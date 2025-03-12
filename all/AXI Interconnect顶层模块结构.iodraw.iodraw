@@ -31,7 +31,7 @@
         <mxCell id="CPEkf1ofv0CR8lUreoJD-1" value="&lt;span style=&quot;font-size: 17px;&quot; lang=&quot;EN-US&quot;&gt;寄存器组模块register_slice_bank&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=0;fontSize=17;" parent="CPEkf1ofv0CR8lUreoJD-13" vertex="1">
           <mxGeometry x="20" y="80" width="40" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="CPEkf1ofv0CR8lUreoJD-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;升速器模块&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 17px;&quot;&gt;axi_upsizer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=0;fontSize=17;" parent="CPEkf1ofv0CR8lUreoJD-13" vertex="1">
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;升速器模块&lt;span style=&quot;font-size: 20px;&quot; lang=&quot;EN-US&quot;&gt;axi_upsizer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=0;fontSize=20;" parent="CPEkf1ofv0CR8lUreoJD-13" vertex="1">
           <mxGeometry x="100" y="80" width="40" height="280" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-4" value="&lt;span style=&quot;font-size: 17px;&quot; lang=&quot;EN-US&quot;&gt;FIFO&lt;/span&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;组模块&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 17px;&quot;&gt;data_fifo_bank&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=0;fontSize=17;" parent="CPEkf1ofv0CR8lUreoJD-13" vertex="1">
