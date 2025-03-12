@@ -20,7 +20,22 @@
           <mxGeometry x="210" y="420" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9ChUtYPO5Wmw1dVivihD-6" value="DDRx&lt;div&gt;内存控制器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="135" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ChUtYPO5Wmw1dVivihD-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="130" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="9ChUtYPO5Wmw1dVivihD-9" value="P0" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9ChUtYPO5Wmw1dVivihD-10" value="P0" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9ChUtYPO5Wmw1dVivihD-11" value="P0" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9ChUtYPO5Wmw1dVivihD-12" value="P0" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
