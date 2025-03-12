@@ -97,8 +97,44 @@
         <mxCell id="CPEkf1ofv0CR8lUreoJD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;strokeWidth=3;curved=1;" edge="1" parent="1" source="CPEkf1ofv0CR8lUreoJD-10" target="CPEkf1ofv0CR8lUreoJD-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CPEkf1ofv0CR8lUreoJD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="CPEkf1ofv0CR8lUreoJD-15" target="CPEkf1ofv0CR8lUreoJD-5">
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=3;" edge="1" parent="1" source="CPEkf1ofv0CR8lUreoJD-15" target="CPEkf1ofv0CR8lUreoJD-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="190" width="400" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-34" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="CPEkf1ofv0CR8lUreoJD-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="204.5" as="sourcePoint" />
+            <mxPoint x="400" y="204.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=3;dashed=1;fontFamily=宋体;dashPattern=8 8;" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
+          <mxGeometry y="30" width="400" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=7;dashed=1;fontFamily=宋体;" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
+          <mxGeometry x="80" y="40" width="240" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-37" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;font-family:&lt;br/&gt;宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;寄存器组模块register_slice_bank&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
+          <mxGeometry x="20" y="80" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-38" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;升速器模块&lt;span lang=&quot;EN-US&quot;&gt;axi_upsizer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
+          <mxGeometry x="100" y="80" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-39" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12pt;&quot;&gt;FIFO&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;组模块&lt;span lang=&quot;EN-US&quot;&gt;data_fifo_bank&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
+          <mxGeometry x="340" y="80" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-40" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;降速器模块&lt;span lang=&quot;EN-US&quot;&gt;axi_downsizer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
+          <mxGeometry x="260" y="80" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-41" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;时钟转换模块&lt;span lang=&quot;EN-US&quot;&gt;clock_converter&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
+          <mxGeometry x="180" y="80" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-42" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 13px; display: inline !important;&quot;&gt;协议转换模块&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 13px;&quot;&gt;protocol_conv_bank&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
+          <mxGeometry x="83" y="41" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-43" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;从数据链路1&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="CPEkf1ofv0CR8lUreoJD-33">
+          <mxGeometry x="5" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
