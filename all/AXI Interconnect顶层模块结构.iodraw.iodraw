@@ -32,7 +32,10 @@
           <mxGeometry x="240" y="260" width="40" height="280" as="geometry" />
         </mxCell>
         <mxCell id="CPEkf1ofv0CR8lUreoJD-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 13px; display: inline !important;&quot;&gt;协议转换模块&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 13px;&quot;&gt;protocol_conv_bank&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="160" y="230" width="280" height="40" as="geometry" />
+          <mxGeometry x="160" y="222" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEkf1ofv0CR8lUreoJD-11" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;从数据链路&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
