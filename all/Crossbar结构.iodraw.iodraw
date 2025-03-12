@@ -10,10 +10,10 @@
         <mxCell id="wxM1UVATD-fBZKMPMKQW-2" value="Master 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="320" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wxM1UVATD-fBZKMPMKQW-3" value="Master 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wxM1UVATD-fBZKMPMKQW-3" value="Master 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="380" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wxM1UVATD-fBZKMPMKQW-4" value="Master 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wxM1UVATD-fBZKMPMKQW-4" value="Master 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="440" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wxM1UVATD-fBZKMPMKQW-5" value="Slave 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="wxM1UVATD-fBZKMPMKQW-8" value="Slave 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="200" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wxM1UVATD-fBZKMPMKQW-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="340" as="sourcePoint" />
+            <mxPoint x="430" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
