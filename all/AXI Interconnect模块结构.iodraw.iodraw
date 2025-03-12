@@ -507,6 +507,11 @@
         <mxCell id="Pdh6jnHVdhQUowGYGn-5-23" value="&lt;font face=&quot;宋体&quot;&gt;decerr_slave&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="820" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="VOx-rm8jjB-oOB2Lfayw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VOx-rm8jjB-oOB2Lfayw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297.6" y="418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VOx-rm8jjB-oOB2Lfayw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="292" width="120" height="60" as="geometry" />
         </mxCell>
