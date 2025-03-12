@@ -19,8 +19,8 @@
         <mxCell id="9ChUtYPO5Wmw1dVivihD-4" value="P0" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="420" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9ChUtYPO5Wmw1dVivihD-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="9ChUtYPO5Wmw1dVivihD-6" value="DDRx&lt;div&gt;内存控制器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
