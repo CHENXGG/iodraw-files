@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lsTst3jQqud4_SFI-p_W">
-    <mxGraphModel dx="989" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,25 +23,25 @@
           <mxGeometry x="135" y="210" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ChUtYPO5Wmw1dVivihD-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="220" width="180" height="280" as="geometry" />
+          <mxGeometry x="480" y="220" width="180" height="280" as="geometry" />
         </mxCell>
         <mxCell id="9ChUtYPO5Wmw1dVivihD-9" value="AXI4-Lite" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="240" width="40" height="40" as="geometry" />
+          <mxGeometry x="480" y="240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9ChUtYPO5Wmw1dVivihD-10" value="SG&lt;div&gt;R/W&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="300" width="40" height="40" as="geometry" />
+          <mxGeometry x="480" y="300" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9ChUtYPO5Wmw1dVivihD-11" value="MM2S&lt;br&gt;Read" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="360" width="40" height="40" as="geometry" />
+          <mxGeometry x="480" y="360" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9ChUtYPO5Wmw1dVivihD-12" value="S2MM&lt;br&gt;Read" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="420" width="40" height="40" as="geometry" />
+          <mxGeometry x="480" y="420" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9ChUtYPO5Wmw1dVivihD-13" value="AXI DMA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="540" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ChUtYPO5Wmw1dVivihD-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="350" width="180" height="280" as="geometry" />
+          <mxGeometry x="270" y="220" width="180" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
