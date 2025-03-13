@@ -35,7 +35,16 @@
           <mxGeometry x="320" y="180" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-15" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="190" width="100" height="40" as="geometry" />
+          <mxGeometry x="460" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-16" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-17" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-18" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="190" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
