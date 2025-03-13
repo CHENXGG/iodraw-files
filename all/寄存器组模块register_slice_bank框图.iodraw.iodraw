@@ -446,12 +446,12 @@
           <mxGeometry x="710" y="1924.87" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-180" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 14px;&quot;&gt;C_NUM_SLOTS参数决定实例&lt;span style=&quot;text-align: center;&quot;&gt;的&lt;/span&gt;数量&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2180" width="396" height="40" as="geometry" />
+          <mxGeometry x="194" y="2180" width="396" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-181" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="344.5" y="2180" as="sourcePoint" />
-            <mxPoint x="394.5" y="2120" as="targetPoint" />
+            <mxPoint x="298.5" y="2180" as="sourcePoint" />
+            <mxPoint x="348.5" y="2120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
