@@ -40,9 +40,6 @@
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-16" value="硬件设计描述数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="600" y="190" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-17" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="740" y="180" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-18" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="880" y="180" width="100" height="40" as="geometry" />
         </mxCell>
@@ -74,10 +71,16 @@
           <mxGeometry x="600" y="70" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-29" value="RTL代码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="610" y="170" width="100" height="30" as="geometry" />
+          <mxGeometry x="740" y="190" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-30" value="TestBench" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="610" y="140" width="100" height="30" as="geometry" />
+          <mxGeometry x="740" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-31" value="RTL代码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="740" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-32" value="TestBench" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
