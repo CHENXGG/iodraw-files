@@ -549,62 +549,14 @@
         <mxCell id="M1efYWnTK9pAvaRJYnzW-10" value="&lt;font face=&quot;宋体&quot;&gt;crossbar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1210" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M1efYWnTK9pAvaRJYnzW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="M1efYWnTK9pAvaRJYnzW-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="1280" />
-            </Array>
-            <mxPoint x="549.9999999999998" y="1279.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M1efYWnTK9pAvaRJYnzW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="M1efYWnTK9pAvaRJYnzW-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="1310" />
-            </Array>
-            <mxPoint x="549.9999999999998" y="1309.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M1efYWnTK9pAvaRJYnzW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="M1efYWnTK9pAvaRJYnzW-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="1340" />
-            </Array>
-            <mxPoint x="549.9999999999998" y="1339.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M1efYWnTK9pAvaRJYnzW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="M1efYWnTK9pAvaRJYnzW-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="1370" />
-            </Array>
-            <mxPoint x="549.9999999999998" y="1369.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="M1efYWnTK9pAvaRJYnzW-15" value="&lt;font face=&quot;宋体&quot;&gt;si_transactor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="1240" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M1efYWnTK9pAvaRJYnzW-20" value="&lt;font face=&quot;宋体&quot;&gt;splitter&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1390" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="M1efYWnTK9pAvaRJYnzW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="M1efYWnTK9pAvaRJYnzW-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="1460" />
-            </Array>
-            <mxPoint x="549.9999999999998" y="1460" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="510" y="1280" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M1efYWnTK9pAvaRJYnzW-22" value="&lt;font face=&quot;宋体&quot;&gt;wdata_router&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="1420" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="M1efYWnTK9pAvaRJYnzW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="M1efYWnTK9pAvaRJYnzW-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="1520" />
-            </Array>
-            <mxPoint x="549.9999999999998" y="1520" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="M1efYWnTK9pAvaRJYnzW-26" value="&lt;font face=&quot;宋体&quot;&gt;wdata_mux&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="1480" width="160" height="20" as="geometry" />
