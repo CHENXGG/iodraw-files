@@ -104,10 +104,10 @@
           <mxGeometry x="880" y="100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-41" value="硬件初步&lt;div&gt;安全性分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="180" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="180" y="125" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-42" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="190" y="90" width="100" height="30" as="geometry" />
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-42" value="系统级需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
