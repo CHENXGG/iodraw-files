@@ -415,7 +415,7 @@
             <mxPoint x="294" y="1880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-172" value="协议选择0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-172" value="模式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="264.5" y="1850" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-173" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontFamily=宋体;" edge="1" parent="1">
@@ -465,12 +465,12 @@
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-203" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="1350" as="sourcePoint" />
-            <mxPoint x="550" y="1420" as="targetPoint" />
+            <mxPoint x="615.5" y="1820" as="sourcePoint" />
+            <mxPoint x="565.5" y="1890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-204" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;未被选择的数据通路将不被例化&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1320" width="240" height="40" as="geometry" />
+          <mxGeometry x="515.5" y="1790" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
