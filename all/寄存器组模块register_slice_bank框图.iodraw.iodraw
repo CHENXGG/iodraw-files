@@ -391,7 +391,7 @@
         <mxCell id="bldclgcIpYrmBIZXqMpB-164" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;交叉开关（共地址多数据）模块&lt;span lang=&quot;EN-US&quot;&gt;crossbar&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#E6E6E6;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="350" y="1890" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-165" value="&lt;span style=&quot;font-size: 14px;&quot; lang=&quot;EN-US&quot;&gt;AXI3&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;转换模块&lt;span style=&quot;font-size: 14px;&quot; lang=&quot;EN-US&quot;&gt;axi3_conv&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#E6E6E6;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-165" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;交叉开关（共地址共数据）模块&lt;span style=&quot;font-size: 12px;&quot; lang=&quot;EN-US&quot;&gt;crossbar_sasd&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#E6E6E6;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="349.5" y="1950" width="240.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-166" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fontFamily=宋体;fillColor=#E6E6E6;" vertex="1" parent="1">
