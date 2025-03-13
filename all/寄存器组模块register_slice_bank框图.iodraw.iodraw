@@ -452,7 +452,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-200" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;未被选择的数据通路将不被例化&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="940" width="240" height="40" as="geometry" />
+          <mxGeometry x="480" y="890" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bldclgcIpYrmBIZXqMpB-201" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="930" as="sourcePoint" />
+            <mxPoint x="540" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bldclgcIpYrmBIZXqMpB-202" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;未被选择的数据通路将不被例化&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="900" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
