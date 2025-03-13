@@ -73,7 +73,7 @@
         <mxCell id="bldclgcIpYrmBIZXqMpB-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="289" y="590" width="250" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-21" value="AXI主接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-21" value="AXI从接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="189" y="610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-22" value="AXI主接口1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
