@@ -88,8 +88,11 @@
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-35" value="Bitstream文件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="880" y="190" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-36" value="硬件审定 计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-36" value="硬件审定计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="880" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-37" value="硬件需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
