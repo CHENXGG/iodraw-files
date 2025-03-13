@@ -311,12 +311,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-127" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 14px;&quot;&gt;C_NUM_SLOTS参数决定实例&lt;span style=&quot;text-align: center;&quot;&gt;的&lt;/span&gt;数量&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="256.5" y="1800" width="396" height="40" as="geometry" />
+          <mxGeometry x="227" y="1730" width="396" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-128" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="366.5" y="1800" as="sourcePoint" />
-            <mxPoint x="416.5" y="1740" as="targetPoint" />
+            <mxPoint x="334.5" y="1700" as="sourcePoint" />
+            <mxPoint x="384.5" y="1640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.701;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=宋体;" edge="1" parent="1" source="bldclgcIpYrmBIZXqMpB-146" target="bldclgcIpYrmBIZXqMpB-148">
