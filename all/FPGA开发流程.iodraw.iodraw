@@ -157,8 +157,11 @@
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-17" value="TestBench" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="550" y="390" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-18" value="TestBench" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-18" value="功能失效路径分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="550" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-19" value="代码详细设计数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="750" y="20" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
