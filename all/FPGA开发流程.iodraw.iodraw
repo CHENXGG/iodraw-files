@@ -257,7 +257,16 @@
           <mxGeometry x="130" y="360" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-45" value="系统级需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="190" y="170" width="100" height="30" as="geometry" />
+          <mxGeometry x="130" y="390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-46" value="硬件初步&lt;div&gt;安全性分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="130" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="300" as="sourcePoint" />
+            <mxPoint x="330" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
