@@ -169,6 +169,12 @@
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-21" value="TestBench" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="690" y="390" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-22" value="Bitstream文件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="690" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-23" value="代码详细设计数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="750" y="20" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
