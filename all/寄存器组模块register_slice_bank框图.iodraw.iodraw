@@ -152,7 +152,10 @@
           <mxGeometry x="320" y="1120" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-48" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="184.75" y="914.75" width="69" height="19.5" as="geometry" />
+          <mxGeometry x="241" y="1040.5" width="69" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bldclgcIpYrmBIZXqMpB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.218;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bldclgcIpYrmBIZXqMpB-42" target="bldclgcIpYrmBIZXqMpB-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
