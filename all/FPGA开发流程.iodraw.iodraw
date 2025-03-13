@@ -37,7 +37,7 @@
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-15" value="硬件需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="180" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-16" value="硬件设计描述 数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-16" value="硬件设计描述数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="180" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-17" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-24" value="硬件编码标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-25" value="硬件需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
