@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RYEfNsaPO-6BBoJR68dX-1" value="&lt;font face=&quot;宋体&quot;&gt;计划(4.0章节)&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;YTjEqxl_WZsmsPe-MFJz&quot;&gt;&amp;nbsp; &amp;nbsp; 定义硬件生命周期&lt;br&gt;&amp;nbsp; &amp;nbsp; 指定项目里程碑节点&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;YTjEqxl_WZsmsPe-MFJz&quot;&gt;&amp;nbsp; &amp;nbsp; 定义转段需求&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;YTjEqxl_WZsmsPe-MFJz&quot;&gt;&amp;nbsp; &amp;nbsp; 指定开发和验证环境&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RYEfNsaPO-6BBoJR68dX-1" value="&lt;font face=&quot;宋体&quot;&gt;计划(4.0章节)&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;rw5RAUXr1Ah-d2jjtuoA&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;定义硬件生命周期&lt;br&gt;&amp;nbsp; &amp;nbsp; 指定项目里程碑节点&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;RWgsy-t-1TifJjqRjrS2&quot;&gt;&amp;nbsp; &amp;nbsp; 定义转段需求&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;RWgsy-t-1TifJjqRjrS2&quot;&gt;&amp;nbsp; &amp;nbsp; 指定开发和验证环境&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="170" y="160" width="160" height="180" as="geometry" />
         </mxCell>
       </root>
