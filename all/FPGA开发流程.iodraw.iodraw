@@ -17,13 +17,13 @@
           <mxGeometry x="479" y="260" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-5" value="详细设计" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="620" y="260" width="150" height="30" as="geometry" />
+          <mxGeometry x="619" y="260" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-6" value="实现" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="800" y="260" width="150" height="30" as="geometry" />
+          <mxGeometry x="759" y="260" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-7" value="生产转化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="950" y="260" width="150" height="30" as="geometry" />
+          <mxGeometry x="899" y="260" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-8" value="技术指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
