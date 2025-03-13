@@ -47,13 +47,13 @@
           <mxGeometry x="880" y="180" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-19" value="验证和确认数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="320" y="160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-20" value="硬件审定计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="100" width="100" height="40" as="geometry" />
+          <mxGeometry x="320" y="130" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-21" value="硬件初步&lt;div&gt;安全性分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="60" width="100" height="40" as="geometry" />
+          <mxGeometry x="320" y="100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-23" value="硬件设计标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="160" width="100" height="30" as="geometry" />
