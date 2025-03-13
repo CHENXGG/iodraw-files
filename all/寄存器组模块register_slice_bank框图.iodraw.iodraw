@@ -76,7 +76,7 @@
         <mxCell id="bldclgcIpYrmBIZXqMpB-21" value="AXI从接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="189" y="610" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-22" value="AXI主接口1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-22" value="AXI从接口1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="189" y="650" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-23" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
@@ -112,10 +112,10 @@
             <mxPoint x="413.71" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-30" value="AXI主接口n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-30" value="AXI从接口n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="189" y="740" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-31" value="AXI从接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-31" value="AXI主接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="559" y="610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-32" value="AXI从接口1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
