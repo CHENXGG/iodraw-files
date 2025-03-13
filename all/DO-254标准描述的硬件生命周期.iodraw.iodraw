@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RYEfNsaPO-6BBoJR68dX-11" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Helvetica;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;forced-color-adjust: none;&quot;&gt;定义硬件生命周期&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;指定项目里程碑节点&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;定义转段需求&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Helvetica;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;forced-color-adjust: none;&quot;&gt;指定开发和验证环境&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="513" y="90" width="160" height="80" as="geometry" />
+          <mxGeometry x="703" y="30" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RYEfNsaPO-6BBoJR68dX-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="142" width="10" height="10" as="geometry" />
+          <mxGeometry x="690" y="82" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="RYEfNsaPO-6BBoJR68dX-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="128" width="10" height="10" as="geometry" />
+          <mxGeometry x="690" y="68" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="RYEfNsaPO-6BBoJR68dX-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="114" width="10" height="10" as="geometry" />
+          <mxGeometry x="690" y="54" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="RYEfNsaPO-6BBoJR68dX-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="100" width="10" height="10" as="geometry" />
+          <mxGeometry x="690" y="40" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="RYEfNsaPO-6BBoJR68dX-17" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="190" y="69" width="220" height="100" as="geometry" />
@@ -251,7 +251,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RYEfNsaPO-6BBoJR68dX-85" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="510" y="190" width="200" height="100" as="geometry" />
+          <mxGeometry x="500" y="200" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RYEfNsaPO-6BBoJR68dX-86" value="&lt;div&gt;&lt;font face=&quot;rw5RAUXr1Ah-d2jjtuoA&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="RYEfNsaPO-6BBoJR68dX-85">
           <mxGeometry width="200" height="90" as="geometry" />
@@ -271,7 +271,7 @@
         <mxCell id="RYEfNsaPO-6BBoJR68dX-91" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RYEfNsaPO-6BBoJR68dX-85">
           <mxGeometry x="7" y="30" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="RYEfNsaPO-6BBoJR68dX-92" value="&lt;font face=&quot;宋体&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 14px;&quot;&gt;需求捕获(5.1章节)&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="RYEfNsaPO-6BBoJR68dX-85">
+        <mxCell id="RYEfNsaPO-6BBoJR68dX-92" value="&lt;font face=&quot;宋体&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 14px;&quot;&gt;安全性评估(2.3章节)&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="RYEfNsaPO-6BBoJR68dX-85">
           <mxGeometry width="140" height="20" as="geometry" />
         </mxCell>
       </root>
