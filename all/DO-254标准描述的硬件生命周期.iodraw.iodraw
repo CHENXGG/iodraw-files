@@ -253,7 +253,7 @@
         <mxCell id="RYEfNsaPO-6BBoJR68dX-85" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="500" y="200" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RYEfNsaPO-6BBoJR68dX-86" value="&lt;div&gt;&lt;font face=&quot;rw5RAUXr1Ah-d2jjtuoA&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="RYEfNsaPO-6BBoJR68dX-85">
+        <mxCell id="RYEfNsaPO-6BBoJR68dX-86" value="&lt;div&gt;&lt;font face=&quot;rw5RAUXr1Ah-d2jjtuoA&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#E6E6E6;" vertex="1" parent="RYEfNsaPO-6BBoJR68dX-85">
           <mxGeometry width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RYEfNsaPO-6BBoJR68dX-87" value="&lt;font face=&quot;宋体&quot;&gt;制定设计保证等级&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;指定可接收的寿命内故障等级&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;确定冗余需求&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;说明SBU的减缓策略&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="RYEfNsaPO-6BBoJR68dX-85">
