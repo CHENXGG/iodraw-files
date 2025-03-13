@@ -445,6 +445,12 @@
         <mxCell id="bldclgcIpYrmBIZXqMpB-178" value="AXI主&lt;span style=&quot;background-color: initial;&quot;&gt;接口0&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="710" y="1924.87" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bldclgcIpYrmBIZXqMpB-199" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="930" as="sourcePoint" />
+            <mxPoint x="530" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
