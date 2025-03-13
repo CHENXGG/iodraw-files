@@ -584,14 +584,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M1efYWnTK9pAvaRJYnzW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="M1efYWnTK9pAvaRJYnzW-45">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="800" y="1400" />
-            </Array>
-            <mxPoint x="820" y="1400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="M1efYWnTK9pAvaRJYnzW-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="M1efYWnTK9pAvaRJYnzW-45" target="M1efYWnTK9pAvaRJYnzW-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -599,7 +591,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M1efYWnTK9pAvaRJYnzW-45" value="&lt;font face=&quot;宋体&quot;&gt;crossbar_sasd&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M1efYWnTK9pAvaRJYnzW-45" value="&lt;span style=&quot;font-family: 宋体; font-size: 11px;&quot;&gt;交叉开关（共地址多数据）模块&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 11px;&quot; lang=&quot;EN-US&quot;&gt;crossbar_sasd&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="1210" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M1efYWnTK9pAvaRJYnzW-47" value="&lt;span style=&quot;font-family: 宋体; font-size: 11px;&quot;&gt;地址仲裁模块&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 11px;&quot; lang=&quot;EN-US&quot;&gt;addr_arbiter_sasd&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
