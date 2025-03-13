@@ -176,6 +176,12 @@
         <mxCell id="RYEfNsaPO-6BBoJR68dX-69" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;硬件设计过程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="190" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RYEfNsaPO-6BBoJR68dX-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299.88" y="510" as="targetPoint" />
+            <mxPoint x="299.88" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
