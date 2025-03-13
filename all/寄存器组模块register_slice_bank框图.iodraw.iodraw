@@ -13,6 +13,12 @@
         <mxCell id="bldclgcIpYrmBIZXqMpB-4" value="AXI主接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="200" y="230" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bldclgcIpYrmBIZXqMpB-5" value="AXI主接口1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bldclgcIpYrmBIZXqMpB-6" value="&lt;span style=&quot;font-size:10.5pt;font-family:&lt;br/&gt;宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;axi_register_slice&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="339" y="270" width="171" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
