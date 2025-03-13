@@ -401,8 +401,8 @@
             <mxPoint x="100" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYEfNsaPO-6BBoJR68dX-129" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="586" y="732" width="60" height="30" as="geometry" />
+        <mxCell id="RYEfNsaPO-6BBoJR68dX-129" value="FPGA电子硬件生命周期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="586" y="732" width="151" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
