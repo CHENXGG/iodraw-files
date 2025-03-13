@@ -22,7 +22,7 @@
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-6" value="实现" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="759" y="260" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-7" value="验收与交付" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-7" value="验收" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="899" y="260" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-8" value="技术指标" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
@@ -304,7 +304,7 @@
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-54" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;过&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;程&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;输&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;入&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-55" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;过&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;程&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;输&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;入&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-55" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;过&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;程&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;输&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;出&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
