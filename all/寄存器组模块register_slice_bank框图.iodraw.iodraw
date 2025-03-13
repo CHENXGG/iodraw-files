@@ -8,7 +8,10 @@
           <mxGeometry x="300" y="210" width="250" height="200" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-3" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;font-family:&lt;br/&gt;宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;axi_register_slice&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="160" y="300" width="130" height="30" as="geometry" />
+          <mxGeometry x="339" y="230" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bldclgcIpYrmBIZXqMpB-4" value="AXI接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
