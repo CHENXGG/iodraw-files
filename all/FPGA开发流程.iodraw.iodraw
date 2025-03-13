@@ -22,7 +22,7 @@
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-6" value="实现" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="759" y="260" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-7" value="验收" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-7" value="验证" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="899" y="260" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-8" value="技术指标" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
