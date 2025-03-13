@@ -212,10 +212,13 @@
           <mxGeometry x="586.5" y="960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-69" value="AXI从接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1020" width="70" height="30" as="geometry" />
+          <mxGeometry x="130" y="1035.12" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-70" value="AXI从接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-70" value="AXI主接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="1034.87" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bldclgcIpYrmBIZXqMpB-71" value="AXI主接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1125" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
