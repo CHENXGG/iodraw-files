@@ -230,12 +230,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-74" value="&lt;span style=&quot;font-size: 14px;&quot; lang=&quot;EN-US&quot;&gt;C_NUM_SLOTS参数决定&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;axi_data_fifo&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;实例的&lt;/span&gt;数量&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="233" y="830" width="396" height="40" as="geometry" />
+          <mxGeometry x="163" y="1250" width="396" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-75" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="329" y="830" as="sourcePoint" />
-            <mxPoint x="379" y="780" as="targetPoint" />
+            <mxPoint x="259" y="1250" as="sourcePoint" />
+            <mxPoint x="309" y="1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
