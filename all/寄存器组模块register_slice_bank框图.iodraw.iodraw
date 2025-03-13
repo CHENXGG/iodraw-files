@@ -382,13 +382,13 @@
         <mxCell id="bldclgcIpYrmBIZXqMpB-161" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="259" y="1830" width="421" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-162" value="&lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;protocol_conv_bank&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-162" value="&lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;axi_crossbar&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="394.5" y="1830" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.701;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=宋体;" edge="1" parent="1" source="bldclgcIpYrmBIZXqMpB-164" target="bldclgcIpYrmBIZXqMpB-166">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-164" value="&lt;span style=&quot;font-size: 14px;&quot; lang=&quot;EN-US&quot;&gt;AXI-Lite&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;转换模块&lt;span style=&quot;font-size: 14px;&quot; lang=&quot;EN-US&quot;&gt;axilite_conv&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#E6E6E6;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-164" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;交叉开关（共地址多数据）模块&lt;span lang=&quot;EN-US&quot;&gt;crossbar&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#E6E6E6;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="350" y="1890" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-165" value="&lt;span style=&quot;font-size: 14px;&quot; lang=&quot;EN-US&quot;&gt;AXI3&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;转换模块&lt;span style=&quot;font-size: 14px;&quot; lang=&quot;EN-US&quot;&gt;axi3_conv&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#E6E6E6;fontSize=14;" vertex="1" parent="1">
