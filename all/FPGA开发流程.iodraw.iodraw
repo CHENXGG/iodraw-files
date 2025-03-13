@@ -38,7 +38,7 @@
           <mxGeometry x="460" y="190" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-16" value="硬件设计描述数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="600" y="70" width="100" height="30" as="geometry" />
+          <mxGeometry x="600" y="40" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-19" value="验证和确认数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="320" y="160" width="100" height="30" as="geometry" />
@@ -56,16 +56,16 @@
           <mxGeometry x="460" y="130" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-25" value="RTL代码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="600" y="190" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-26" value="TestBench" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="600" y="160" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-27" value="硬件设计标准" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-26" value="TestBench" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="600" y="130" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-28" value="硬件编码标准" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-27" value="硬件设计标准" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="600" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-28" value="硬件编码标准" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="600" y="70" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-29" value="RTL代码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="740" y="190" width="100" height="30" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="880" y="160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-37" value="代码约束数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="600" y="40" width="100" height="30" as="geometry" />
+          <mxGeometry x="600" y="10" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-38" value="代码详细设计数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="740" y="10" width="100" height="30" as="geometry" />
@@ -151,11 +151,8 @@
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-13" value="RTL代码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="550" y="360" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-14" value="代码约束数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="610" y="50" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-15" value="RTL代码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="560" y="370" width="100" height="30" as="geometry" />
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-16" value="代码约束数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="550" y="330" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
