@@ -7,6 +7,9 @@
         <mxCell id="RYEfNsaPO-6BBoJR68dX-1" value="计划(4.0章节)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="200" y="170" width="120" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="RYEfNsaPO-6BBoJR68dX-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
