@@ -187,9 +187,6 @@
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-27" value="Bitstream文件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="827" y="420" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-28" value="代码详细设计数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="970" y="330" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-29" value="Bitstream文件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="970" y="390" width="100" height="30" as="geometry" />
         </mxCell>
@@ -199,8 +196,8 @@
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-31" value="硬件完成总结" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="970" y="420" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-32" value="硬件完成总结" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="980" y="430" width="100" height="30" as="geometry" />
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-32" value="硬件接收测试标准" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="970" y="450" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
