@@ -247,14 +247,11 @@
         <mxCell id="bldclgcIpYrmBIZXqMpB-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.701;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=宋体;" edge="1" parent="1" source="bldclgcIpYrmBIZXqMpB-106" target="bldclgcIpYrmBIZXqMpB-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-106" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;升速器模块&lt;span lang=&quot;EN-US&quot;&gt;axi_upsizer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-106" value="&lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;AXI-Lite&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;转换模块&lt;span lang=&quot;EN-US&quot;&gt;axilite_conv&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="340" y="1410" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-107" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;降速器模块&lt;span lang=&quot;EN-US&quot;&gt;axi_downsizer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-107" value="&lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;AXI3&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;转换模块&lt;span lang=&quot;EN-US&quot;&gt;axi3_conv&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="339.5" y="1470" width="240.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-108" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;时钟转换模块&lt;span lang=&quot;EN-US&quot;&gt;clock_converter&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1530" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-109" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fontFamily=宋体;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="250" y="1449.75" width="69" height="20.25" as="geometry" />
@@ -292,12 +289,6 @@
             <mxPoint x="700" y="1459.68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-119" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontFamily=宋体;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="1550" as="sourcePoint" />
-            <mxPoint x="699.5" y="1549.71" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-120" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="636" y="1436" as="sourcePoint" />
@@ -312,9 +303,6 @@
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-123" value="AXI主&lt;span style=&quot;background-color: initial;&quot;&gt;接口0&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="700" y="1444.87" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-124" value="AXI主时钟0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1535" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-126" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=宋体;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
