@@ -124,8 +124,11 @@
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-4" value="硬件验证计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="270" y="420" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-5" value="硬件验证计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="280" y="430" width="100" height="30" as="geometry" />
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-5" value="硬件构型管理计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-6" value="硬件构型管理计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
