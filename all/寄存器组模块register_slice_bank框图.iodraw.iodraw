@@ -217,8 +217,11 @@
         <mxCell id="bldclgcIpYrmBIZXqMpB-70" value="AXI主接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="1034.87" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-71" value="AXI主接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-71" value="AXI主时钟0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="1125" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bldclgcIpYrmBIZXqMpB-72" value="AXI主时钟0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1125" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
