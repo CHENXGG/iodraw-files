@@ -211,6 +211,9 @@
         <mxCell id="bldclgcIpYrmBIZXqMpB-68" value="主从设备位宽比较" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="586.5" y="960" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bldclgcIpYrmBIZXqMpB-69" value="AXI从接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
