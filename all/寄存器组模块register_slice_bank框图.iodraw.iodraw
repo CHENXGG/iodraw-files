@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bldclgcIpYrmBIZXqMpB-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="300" y="210" width="250" height="200" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-4" value="AXI主接口0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
@@ -66,6 +66,9 @@
             <mxPoint x="330" y="440" as="sourcePoint" />
             <mxPoint x="380" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bldclgcIpYrmBIZXqMpB-19" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&#xa;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&#xa;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;寄存器组模块&lt;a name=&quot;_Hlk192686733&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;register_slice_bank&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
