@@ -31,14 +31,11 @@
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-9" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="180" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-10" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="170" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-11" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="170" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-12" value="FPGA软件需求分析" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
           <mxGeometry x="-80" y="260" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-13" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
