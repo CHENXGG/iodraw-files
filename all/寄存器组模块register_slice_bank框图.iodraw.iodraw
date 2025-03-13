@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="MEcrgkQy4M5FXqTggqJJ">
-    <mxGraphModel dx="819" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="342" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,8 +67,8 @@
             <mxPoint x="380" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-19" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&#xa;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&#xa;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;寄存器组模块&lt;a name=&quot;_Hlk192686733&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;register_slice_bank&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="140" width="280" height="40" as="geometry" />
+        <mxCell id="bldclgcIpYrmBIZXqMpB-19" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;a name=&quot;_Hlk192686733&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;register_slice_bank&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
