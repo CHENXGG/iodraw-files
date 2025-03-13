@@ -474,6 +474,12 @@
         <mxCell id="141G3Gbq003riImSM_K--11" value="&lt;font face=&quot;宋体&quot;&gt;r_axi3_conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1050" y="780" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="PSwIHwzep-nW-6zSI5kC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PSwIHwzep-nW-6zSI5kC-2" target="Pdh6jnHVdhQUowGYGn-5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSwIHwzep-nW-6zSI5kC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PSwIHwzep-nW-6zSI5kC-2" target="Pdh6jnHVdhQUowGYGn-5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PSwIHwzep-nW-6zSI5kC-2" value="&lt;font face=&quot;宋体&quot;&gt;axi_crossbar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="160" height="20" as="geometry" />
         </mxCell>
