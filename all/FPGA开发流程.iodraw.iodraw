@@ -220,6 +220,24 @@
             <mxPoint x="369.6" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="509.6" y="220" as="sourcePoint" />
+            <mxPoint x="509.6" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="649.6" y="220" as="sourcePoint" />
+            <mxPoint x="649.6" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="659.6" y="230" as="sourcePoint" />
+            <mxPoint x="659.6" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
