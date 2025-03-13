@@ -177,6 +177,9 @@
         <mxCell id="RYEfNsaPO-6BBoJR68dX-59" value="&lt;font face=&quot;宋体&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 14px;&quot;&gt;概要设计(5.5章节)&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="RYEfNsaPO-6BBoJR68dX-55">
           <mxGeometry width="130" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="RYEfNsaPO-6BBoJR68dX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RYEfNsaPO-6BBoJR68dX-55" source="RYEfNsaPO-6BBoJR68dX-56" target="RYEfNsaPO-6BBoJR68dX-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RYEfNsaPO-6BBoJR68dX-60" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="190" y="680" width="200" height="100" as="geometry" />
         </mxCell>
@@ -236,8 +239,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="570" />
-              <mxPoint x="170" y="570" />
-              <mxPoint x="170" y="605" />
+              <mxPoint x="140" y="570" />
+              <mxPoint x="140" y="605" />
             </Array>
           </mxGeometry>
         </mxCell>
