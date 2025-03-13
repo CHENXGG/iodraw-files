@@ -175,7 +175,7 @@
             <mxPoint x="264" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-56" value="位宽比较" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-56" value="主从设备位宽比较" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="234.5" y="960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-58" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
@@ -198,8 +198,8 @@
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-61" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="1150" as="sourcePoint" />
-            <mxPoint x="329.5" y="1149.71" as="targetPoint" />
+            <mxPoint x="560" y="1140" as="sourcePoint" />
+            <mxPoint x="679.5" y="1139.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
