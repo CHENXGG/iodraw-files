@@ -196,8 +196,11 @@
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-30" value="RTL代码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="970" y="360" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-31" value="确认和验证数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="837" y="460" width="100" height="30" as="geometry" />
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-31" value="硬件完成总结" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="970" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-32" value="硬件完成总结" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="980" y="430" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
