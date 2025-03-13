@@ -277,7 +277,7 @@
             <mxPoint x="284" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bldclgcIpYrmBIZXqMpB-115" value="主从设备位宽比较" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="bldclgcIpYrmBIZXqMpB-115" value="协议选择" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="254.5" y="1370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bldclgcIpYrmBIZXqMpB-116" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontFamily=宋体;" edge="1" parent="1">
