@@ -181,7 +181,7 @@
         <mxCell id="Y_GQav0zJeDB0bI7ValI-5" value="代码详细设计数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="740" y="100" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dIvRR8maZ4WC9J24hYFW-1" value="IP核需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="dIvRR8maZ4WC9J24hYFW-1" value="架构设计" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="410" y="360" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
