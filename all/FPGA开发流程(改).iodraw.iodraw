@@ -172,9 +172,6 @@
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-56" value="TestBenchs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="880" y="130" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y_GQav0zJeDB0bI7ValI-1" value="FPGA软件需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="460" y="160" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Y_GQav0zJeDB0bI7ValI-3" value="技术指标" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="320" y="160" width="100" height="30" as="geometry" />
         </mxCell>
@@ -183,6 +180,12 @@
         </mxCell>
         <mxCell id="dIvRR8maZ4WC9J24hYFW-1" value="架构设计" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="410" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dIvRR8maZ4WC9J24hYFW-2" value="架构设计" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="460" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dIvRR8maZ4WC9J24hYFW-3" value="IP核需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
