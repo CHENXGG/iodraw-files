@@ -67,33 +67,6 @@
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-40" value="代码详细设计数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="880" y="40" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-1" value="硬件审定计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="270" y="330" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-2" value="硬件设计计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="270" y="360" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-3" value="硬件确认计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="270" y="390" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-4" value="硬件验证计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="270" y="420" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-5" value="硬件构型管理计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="270" y="450" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-6" value="硬件过程保证计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="270" y="480" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-7" value="需求标准" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="270" y="510" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-8" value="硬件设计标准" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="270" y="540" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-9" value="硬件存档标准" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="270" y="570" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-10" value="FPGA软件需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="410" y="330" width="100" height="30" as="geometry" />
         </mxCell>
@@ -191,24 +164,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="290" as="sourcePoint" />
             <mxPoint x="320" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-43" value="可行性及风险&lt;div&gt;分析报告&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="130" y="330" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-44" value="开发技术要求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="130" y="360" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-45" value="系统级需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="130" y="390" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-46" value="硬件初步&lt;div&gt;安全性分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="130" y="420" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-47" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="179.52" y="290" as="sourcePoint" />
-            <mxPoint x="179.52" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-48" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
