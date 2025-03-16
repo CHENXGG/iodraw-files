@@ -43,6 +43,12 @@
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-32" value="硬件确认计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="740" y="100" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-33" value="硬件验证计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="740" y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-34" value="硬件设计描述数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="740" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-35" value="Bitstream文件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="880" y="190" width="100" height="30" as="geometry" />
         </mxCell>
@@ -51,6 +57,9 @@
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-37" value="代码约束数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="600" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xDVBcJv4vyyyDDVSvU8-38" value="代码详细设计数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="740" y="10" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-39" value="硬件编码标准" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="880" y="70" width="100" height="30" as="geometry" />
