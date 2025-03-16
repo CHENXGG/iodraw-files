@@ -43,17 +43,14 @@
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-35" value="Bitstream文件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="880" y="190" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-36" value="硬件审定计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="880" y="100" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-37" value="代码约束数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="600" y="190" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-39" value="验证计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="880" y="70" width="100" height="30" as="geometry" />
+          <mxGeometry x="880" y="100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-40" value="代码详细设计数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="880" y="40" width="100" height="30" as="geometry" />
+          <mxGeometry x="880" y="70" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-10" value="FPGA软件需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="410" y="330" width="100" height="30" as="geometry" />
@@ -103,7 +100,7 @@
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-30" value="RTL代码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="970" y="330" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-31" value="硬件完成总结" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-31" value="测试总结" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="970" y="390" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-32" value="硬件接收测试标准" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
