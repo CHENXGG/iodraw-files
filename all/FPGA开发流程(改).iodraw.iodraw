@@ -94,7 +94,7 @@
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-30" value="RTL代码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="970" y="330" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2NgkUiAORZ0PMdB7xmR2-31" value="测试总结" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="2NgkUiAORZ0PMdB7xmR2-31" value="测试结果" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="970" y="390" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-33" value="RTL代码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
