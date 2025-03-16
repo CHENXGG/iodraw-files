@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="CC2xNsUqAZPfksceQsYK">
-    <mxGraphModel dx="1195" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,13 +178,13 @@
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-56" value="TestBenchs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="880" y="130" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y_GQav0zJeDB0bI7ValI-1" value="FPGA软件需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Y_GQav0zJeDB0bI7ValI-1" value="FPGA软件需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="460" y="160" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y_GQav0zJeDB0bI7ValI-3" value="技术指标" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Y_GQav0zJeDB0bI7ValI-3" value="技术指标" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="320" y="160" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y_GQav0zJeDB0bI7ValI-5" value="代码详细设计数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Y_GQav0zJeDB0bI7ValI-5" value="代码详细设计数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="740" y="100" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
