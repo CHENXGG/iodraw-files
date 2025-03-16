@@ -79,15 +79,6 @@
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-40" value="代码详细设计数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="880" y="40" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-41" value="硬件初步&lt;div&gt;安全性分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="180" y="80" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-42" value="系统级需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="180" y="160" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4xDVBcJv4vyyyDDVSvU8-43" value="工业标准&lt;div&gt;及内部文件&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="180" y="120" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="2NgkUiAORZ0PMdB7xmR2-1" value="硬件审定计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="270" y="330" width="100" height="30" as="geometry" />
         </mxCell>
