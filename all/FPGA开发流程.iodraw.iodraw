@@ -29,7 +29,7 @@
           <mxGeometry x="600" y="160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-26" value="TestBenchs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="600" y="130" width="100" height="30" as="geometry" />
+          <mxGeometry x="600" y="190" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-29" value="RTL代码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="740" y="190" width="100" height="30" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="880" y="190" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-37" value="代码约束数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="580" y="40" width="100" height="30" as="geometry" />
+          <mxGeometry x="600" y="130" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4xDVBcJv4vyyyDDVSvU8-39" value="验证计划" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="880" y="100" width="100" height="30" as="geometry" />
@@ -183,6 +183,9 @@
         </mxCell>
         <mxCell id="Y_GQav0zJeDB0bI7ValI-3" value="技术指标" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_GQav0zJeDB0bI7ValI-5" value="代码详细设计数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="700" y="340" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
