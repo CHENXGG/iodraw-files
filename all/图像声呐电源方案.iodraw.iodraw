@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;B0512S-1WR3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="355" width="100" height="20" as="geometry" />
+          <mxGeometry x="449" y="355" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-14" value="Vcc12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="640" y="410" width="60" height="30" as="geometry" />
@@ -36,8 +36,8 @@
         <mxCell id="oXsD41aTSeHn9k4VZM0r-18" value="48V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="270" y="300" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oXsD41aTSeHn9k4VZM0r-19" value="5V0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="400" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="oXsD41aTSeHn9k4VZM0r-19" value="5V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="389" y="343" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
