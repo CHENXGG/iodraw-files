@@ -32,11 +32,21 @@
         <mxCell id="oXsD41aTSeHn9k4VZM0r-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;AVD50-48S05-6L&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="390" width="100" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="oXsD41aTSeHn9k4VZM0r-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oXsD41aTSeHn9k4VZM0r-10" target="oXsD41aTSeHn9k4VZM0r-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-10" value="VCC_5V0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="450" y="385" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;B0512S-1WR3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="415" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oXsD41aTSeHn9k4VZM0r-14" value="VCC_5V0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="460" y="395" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
