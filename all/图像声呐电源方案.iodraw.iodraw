@@ -5,10 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oXsD41aTSeHn9k4VZM0r-1" value="48V_IN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="170" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-3" value="48V_IN_R" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="250" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXsD41aTSeHn9k4VZM0r-5" value="&lt;font face=&quot;宋体&quot;&gt;熔断丝&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
