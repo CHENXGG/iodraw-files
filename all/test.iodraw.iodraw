@@ -88,10 +88,7 @@
           <mxGeometry x="280" y="317.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dpazsWhAynZKHddUJAOQ-43" value="&lt;font face=&quot;宋体&quot;&gt;乘法器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="680" y="412.5" width="90" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="dpazsWhAynZKHddUJAOQ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpazsWhAynZKHddUJAOQ-45" target="dpazsWhAynZKHddUJAOQ-43">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="390" y="322.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dpazsWhAynZKHddUJAOQ-45" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;$$1/(2\times fs)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="695" y="337.5" width="60" height="30" as="geometry" />
