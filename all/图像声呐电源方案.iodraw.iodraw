@@ -53,8 +53,8 @@
         <mxCell id="oXsD41aTSeHn9k4VZM0r-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;URA2415YMD-20WR3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="410" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oXsD41aTSeHn9k4VZM0r-28" value="HVDD" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="480" y="410" width="70" height="40" as="geometry" />
+        <mxCell id="oXsD41aTSeHn9k4VZM0r-28" value="HVDD" style="text;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="490" y="400" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
