@@ -85,6 +85,9 @@
         <mxCell id="dpazsWhAynZKHddUJAOQ-29" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;$$1/(2\times fs)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="372" y="111" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dpazsWhAynZKHddUJAOQ-31" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="490" y="214.38" width="107.75" height="45.62" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
