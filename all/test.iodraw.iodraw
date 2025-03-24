@@ -11,13 +11,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dpazsWhAynZKHddUJAOQ-3" value="$$\alpha$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="180" y="130" width="50" height="50" as="geometry" />
+          <mxGeometry x="210" y="130" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dpazsWhAynZKHddUJAOQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpazsWhAynZKHddUJAOQ-4" target="dpazsWhAynZKHddUJAOQ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dpazsWhAynZKHddUJAOQ-4" value="$$\beta$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="180" y="290" width="50" height="50" as="geometry" />
+          <mxGeometry x="210" y="290" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dpazsWhAynZKHddUJAOQ-5" value="&lt;font face=&quot;宋体&quot;&gt;乘法器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="390" y="292.5" width="90" height="45" as="geometry" />
@@ -47,7 +47,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dpazsWhAynZKHddUJAOQ-15" value="$$N$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="290" y="375" width="50" height="50" as="geometry" />
+          <mxGeometry x="290" y="377.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dpazsWhAynZKHddUJAOQ-17" value="&lt;font face=&quot;宋体&quot;&gt;乘法器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="302.5" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
