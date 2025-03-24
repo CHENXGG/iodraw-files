@@ -60,6 +60,14 @@
             <mxPoint x="259.4450000000006" y="234.81000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dpazsWhAynZKHddUJAOQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpazsWhAynZKHddUJAOQ-17" target="dpazsWhAynZKHddUJAOQ-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="235" />
+              <mxPoint x="230" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dpazsWhAynZKHddUJAOQ-17" value="&lt;font face=&quot;宋体&quot;&gt;加法器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="212.5" width="90" height="45" as="geometry" />
         </mxCell>
