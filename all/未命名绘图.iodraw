@@ -26,7 +26,7 @@
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oXsD41aTSeHn9k4VZM0r-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="310" as="targetPoint" />
+            <mxPoint x="500" y="280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="237" />
               <mxPoint x="370" y="280" />
@@ -79,6 +79,9 @@
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-7" value="Vcc5.0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="667" y="226" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nGs7NtaJ81C73WeThF65-10" value="To &lt;font face=&quot;宋体&quot;&gt;发射机&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="496" y="270" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
