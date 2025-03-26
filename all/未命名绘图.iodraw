@@ -34,7 +34,7 @@
           <mxGeometry x="500" y="400" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-18" value="48V_IN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="260" y="353" width="30" height="10" as="geometry" />
+          <mxGeometry x="280" y="353" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-19" value="VCC5V0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="440" y="400" width="60" height="10" as="geometry" />
@@ -57,7 +57,7 @@
           <mxGeometry x="530" y="343" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-3" value="To &lt;font face=&quot;宋体&quot;&gt;发射机&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="450" y="280" width="60" height="10" as="geometry" />
+          <mxGeometry x="600" y="360" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
