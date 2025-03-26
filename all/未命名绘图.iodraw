@@ -120,7 +120,7 @@
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nGs7NtaJ81C73WeThF65-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="390" as="targetPoint" />
+            <mxPoint x="380" y="392" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;LM21215AMHE-1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -139,7 +139,7 @@
           <mxGeometry x="120" y="455" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-21" value="VCCINT_FPGA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="310" y="373" width="60" height="15" as="geometry" />
+          <mxGeometry x="310" y="375" width="60" height="15" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-22" value="VCC3V3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="320" y="453" width="60" height="10" as="geometry" />
@@ -153,7 +153,7 @@
           <mxGeometry x="120" y="418" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-35" value="VCC3V3-422" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="310" y="418" width="70" height="10" as="geometry" />
+          <mxGeometry x="310" y="408" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;SC4215JSETRT1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="396" y="455" width="160" height="20" as="geometry" />
