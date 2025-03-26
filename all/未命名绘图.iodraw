@@ -59,6 +59,9 @@
         <mxCell id="nGs7NtaJ81C73WeThF65-3" value="To &lt;font face=&quot;宋体&quot;&gt;发射机&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="60" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="nGs7NtaJ81C73WeThF65-5" value="12V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="535" y="369" width="30" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
