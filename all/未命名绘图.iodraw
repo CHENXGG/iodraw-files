@@ -116,7 +116,7 @@
           <mxGeometry x="120" y="345" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-18" value="VCC5V0_IN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="310" y="341" width="60" height="10" as="geometry" />
+          <mxGeometry x="320" y="340" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nGs7NtaJ81C73WeThF65-19">
           <mxGeometry relative="1" as="geometry">
@@ -130,7 +130,7 @@
           <mxGeometry x="120" y="480" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-21" value="VCCINT_FPGA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="310" y="375" width="60" height="15" as="geometry" />
+          <mxGeometry x="310" y="373" width="60" height="15" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-22" value="VCC3V3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="310" y="480" width="60" height="10" as="geometry" />
@@ -144,7 +144,7 @@
           <mxGeometry x="120" y="420" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-35" value="VCC3V3-422" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="310" y="420" width="70" height="10" as="geometry" />
+          <mxGeometry x="310" y="418" width="70" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
