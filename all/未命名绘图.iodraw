@@ -40,7 +40,7 @@
           <mxGeometry x="440" y="400" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-23" value="Vcc12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="610" y="480" width="60" height="10" as="geometry" />
+          <mxGeometry x="596" y="398" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;7805&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="400" width="100" height="20" as="geometry" />
@@ -60,7 +60,7 @@
           <mxGeometry x="600" y="360" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-5" value="12V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="535" y="369" width="30" height="10" as="geometry" />
+          <mxGeometry x="535" y="368" width="30" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
