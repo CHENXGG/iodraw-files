@@ -111,10 +111,10 @@
           <mxGeometry x="110" y="420" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-21" value="VCCINT_FPGA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="320" y="385" width="60" height="10" as="geometry" />
+          <mxGeometry x="320" y="380" width="60" height="15" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-22" value="VCC3V3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="310" y="425" width="60" height="10" as="geometry" />
+          <mxGeometry x="300" y="425" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
