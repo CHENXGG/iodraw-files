@@ -176,8 +176,11 @@
         <mxCell id="nGs7NtaJ81C73WeThF65-49" value="VCC2V5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="579" y="497" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="nGs7NtaJ81C73WeThF65-50" value="VCC2V5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="579" y="528" width="60" height="10" as="geometry" />
+        <mxCell id="nGs7NtaJ81C73WeThF65-50" value="VCC1V05" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="579" y="533" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nGs7NtaJ81C73WeThF65-51" value="VCC1V05" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="589" y="543" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
