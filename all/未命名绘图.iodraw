@@ -101,6 +101,9 @@
         <mxCell id="nGs7NtaJ81C73WeThF65-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nGs7NtaJ81C73WeThF65-16" target="nGs7NtaJ81C73WeThF65-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nGs7NtaJ81C73WeThF65-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nGs7NtaJ81C73WeThF65-16" target="nGs7NtaJ81C73WeThF65-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-16" value="VCC5V0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="15" y="350" width="60" height="10" as="geometry" />
         </mxCell>
@@ -114,7 +117,7 @@
           <mxGeometry x="120" y="380" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;LM21215AMHE-1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="420" width="160" height="20" as="geometry" />
+          <mxGeometry x="120" y="420" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-21" value="VCCINT_FPGA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="320" y="380" width="60" height="15" as="geometry" />
