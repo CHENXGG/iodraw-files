@@ -158,13 +158,18 @@
         <mxCell id="nGs7NtaJ81C73WeThF65-35" value="VCC3V3-422" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="310" y="416" width="70" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="nGs7NtaJ81C73WeThF65-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGs7NtaJ81C73WeThF65-38">
+        <mxCell id="nGs7NtaJ81C73WeThF65-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nGs7NtaJ81C73WeThF65-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;SC4215JSETRT1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="396" y="455" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nGs7NtaJ81C73WeThF65-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGs7NtaJ81C73WeThF65-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="502" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-40" value="&lt;font face=&quot;Times New Roman&quot;&gt;SC4215JSETRT1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="396" y="492" width="160" height="20" as="geometry" />
@@ -179,7 +184,7 @@
           <mxGeometry x="579" y="455" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-49" value="VCC2V5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="579" y="497" width="60" height="10" as="geometry" />
+          <mxGeometry x="579" y="492" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-50" value="VCC1V05" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="579" y="533" width="60" height="10" as="geometry" />
