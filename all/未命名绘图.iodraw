@@ -144,9 +144,15 @@
         <mxCell id="nGs7NtaJ81C73WeThF65-22" value="VCC3V3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="320" y="453" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="nGs7NtaJ81C73WeThF65-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nGs7NtaJ81C73WeThF65-33">
+        <mxCell id="nGs7NtaJ81C73WeThF65-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="430" as="targetPoint" />
+            <mxPoint x="380" y="428.5" as="targetPoint" />
+            <mxPoint x="280.00000000000006" y="426.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="330" y="427" />
+              <mxPoint x="330" y="430" />
+              <mxPoint x="380" y="430" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-33" value="&lt;font face=&quot;Times New Roman&quot;&gt;ADP3330ARTZ3.3-RL7&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
