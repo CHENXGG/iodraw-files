@@ -45,7 +45,7 @@
         <mxCell id="oXsD41aTSeHn9k4VZM0r-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;7805&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="400" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nGs7NtaJ81C73WeThF65-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oXsD41aTSeHn9k4VZM0r-26">
+        <mxCell id="nGs7NtaJ81C73WeThF65-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oXsD41aTSeHn9k4VZM0r-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="365" as="targetPoint" />
           </mxGeometry>
@@ -54,7 +54,7 @@
           <mxGeometry x="340" y="355" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-28" value="HVDD" style="text;whiteSpace=wrap;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="550" y="343" width="70" height="20" as="geometry" />
+          <mxGeometry x="530" y="343" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nGs7NtaJ81C73WeThF65-3" value="To &lt;font face=&quot;宋体&quot;&gt;发射机&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="450" y="280" width="60" height="10" as="geometry" />
