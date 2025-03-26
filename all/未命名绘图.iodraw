@@ -45,21 +45,21 @@
           <mxGeometry x="405" y="353" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-23" value="Vcc12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="630" y="330" width="60" height="10" as="geometry" />
+          <mxGeometry x="580" y="355" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;7805&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="380" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="oXsD41aTSeHn9k4VZM0r-26" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="420" as="targetPoint" />
+            <mxPoint x="590" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;URA2415YMD-20WR3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="410" width="140" height="20" as="geometry" />
+          <mxGeometry x="320" y="280" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oXsD41aTSeHn9k4VZM0r-28" value="HVDD" style="text;whiteSpace=wrap;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="490" y="400" width="70" height="20" as="geometry" />
+          <mxGeometry x="510" y="270" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
