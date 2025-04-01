@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vSsXV2dkGDx8OCXE-uKM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vSsXV2dkGDx8OCXE-uKM-1" target="vSsXV2dkGDx8OCXE-uKM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vSsXV2dkGDx8OCXE-uKM-1" value="代码文件(.v,.vhd)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="290" width="120" height="40" as="geometry" />
         </mxCell>
@@ -19,6 +22,9 @@
             <mxPoint x="-20" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vSsXV2dkGDx8OCXE-uKM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vSsXV2dkGDx8OCXE-uKM-5" target="vSsXV2dkGDx8OCXE-uKM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vSsXV2dkGDx8OCXE-uKM-5" value="需求列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="290" width="120" height="40" as="geometry" />
         </mxCell>
@@ -27,6 +33,9 @@
         </mxCell>
         <mxCell id="vSsXV2dkGDx8OCXE-uKM-7" value="生成唯一编号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vSsXV2dkGDx8OCXE-uKM-9" value="生成唯一编号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
