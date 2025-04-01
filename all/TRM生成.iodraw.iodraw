@@ -124,8 +124,11 @@
             <mxPoint x="710" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vSsXV2dkGDx8OCXE-uKM-37" value="提示词" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="870" width="60" height="30" as="geometry" />
+        <mxCell id="vSsXV2dkGDx8OCXE-uKM-37" value="&lt;font face=&quot;宋体&quot;&gt;提示词&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760.06" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vSsXV2dkGDx8OCXE-uKM-38" value="&lt;font face=&quot;宋体&quot;&gt;提示词&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
