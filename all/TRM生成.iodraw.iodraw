@@ -130,8 +130,8 @@
         <mxCell id="vSsXV2dkGDx8OCXE-uKM-38" value="&lt;font face=&quot;宋体&quot;&gt;输出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="670" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vSsXV2dkGDx8OCXE-uKM-43" value="使用Deepseek进行代码与需求关系的映射&lt;div&gt;、总结代码块功能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="690" width="120" height="80" as="geometry" />
+        <mxCell id="vSsXV2dkGDx8OCXE-uKM-43" value="整合数据并进行需求追踪矩阵的文件生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="690" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
