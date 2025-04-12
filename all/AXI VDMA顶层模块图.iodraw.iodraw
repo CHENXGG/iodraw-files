@@ -73,11 +73,14 @@
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-24" value="axi_vdma_genlock_mux" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="400" y="740" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Shq-JLEXuI5hYmU0OIwC-25" value="" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="320" y="770" width="160" height="20" as="geometry" />
+        <mxCell id="Shq-JLEXuI5hYmU0OIwC-25" value="axi_vdma_greycoder" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="400" y="770" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-26" value="" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="320" y="800" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d_8fuuDjn7A8YvK9GfgA-1" value="" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="810" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
