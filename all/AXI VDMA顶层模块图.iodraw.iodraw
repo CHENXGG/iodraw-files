@@ -10,7 +10,7 @@
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-2" value="axi_vdma_pkg" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="110" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Shq-JLEXuI5hYmU0OIwC-3" value="axi_vdma_pkg" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Shq-JLEXuI5hYmU0OIwC-3" value="axi_vdma_intrpt" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="140" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-4" value="axi_vdma_pkg" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
@@ -29,7 +29,10 @@
           <mxGeometry x="320" y="290" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-9" value="axi_vdma_pkg" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="330" y="300" width="120" height="20" as="geometry" />
+          <mxGeometry x="320" y="320" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Shq-JLEXuI5hYmU0OIwC-10" value="axi_vdma_pkg" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
