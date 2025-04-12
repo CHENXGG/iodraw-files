@@ -17,10 +17,10 @@
           <mxGeometry x="320" y="170" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-5" value="axi_vdma_reset" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="120" height="20" as="geometry" />
+          <mxGeometry x="320" y="200" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-6" value="axi_vdma_reg_if" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="320" y="230" width="120" height="20" as="geometry" />
+          <mxGeometry x="320" y="230" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-7" value="axi_vdma_lite_if" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="120" height="20" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-9" value="axi_vdma_vid_cdc" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Shq-JLEXuI5hYmU0OIwC-10" value="axi_vdma_pkg" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Shq-JLEXuI5hYmU0OIwC-10" value="axi_vdma_fsync_gen" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="350" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
