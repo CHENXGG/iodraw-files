@@ -10,6 +10,9 @@
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-2" value="axi_vdma_pkg" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="110" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Shq-JLEXuI5hYmU0OIwC-3" value="axi_vdma_pkg" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
