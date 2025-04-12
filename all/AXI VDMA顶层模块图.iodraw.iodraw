@@ -52,10 +52,10 @@
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-17" value="axi_vdma_cmdsts_if" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="360" y="530" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Shq-JLEXuI5hYmU0OIwC-18" value="" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="320" y="560" width="160" height="20" as="geometry" />
+        <mxCell id="Shq-JLEXuI5hYmU0OIwC-18" value="axi_vdma_vidreg_module" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="360" y="560" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Shq-JLEXuI5hYmU0OIwC-19" value="" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="Shq-JLEXuI5hYmU0OIwC-19" value="axi_vdma_sgregister" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="320" y="590" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-20" value="" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
