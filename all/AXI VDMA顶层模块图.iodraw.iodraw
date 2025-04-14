@@ -38,7 +38,7 @@
           <mxGeometry x="320" y="500" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-12" value="axi_vdma_reg_module" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="320" y="530" width="160" height="20" as="geometry" />
+          <mxGeometry x="320" y="350" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-13" value="axi_vdma_mngr" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="320" y="560" width="160" height="20" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="360" y="1190" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NH2Jk8Im8el7TrX0zaIE-2" value="axi_vdma_cdc" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1050" width="160" height="20" as="geometry" />
+          <mxGeometry x="360" y="320" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
