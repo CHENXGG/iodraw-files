@@ -32,10 +32,10 @@
           <mxGeometry x="630" y="755" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-10" value="axi_vdma_fsync_gen" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="630" y="785" width="160" height="20" as="geometry" />
+          <mxGeometry x="360" y="920" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-11" value="axi_vdma_sof_gen" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="630" y="815" width="160" height="20" as="geometry" />
+          <mxGeometry x="360" y="950" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-12" value="axi_vdma_reg_module" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="320" y="350" width="160" height="20" as="geometry" />
