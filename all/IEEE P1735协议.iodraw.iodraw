@@ -28,7 +28,7 @@
         <mxCell id="OE_9hGrwt7drhFg_AnNG-8" value="加密算法RSA" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OE_9hGrwt7drhFg_AnNG-9" value="Data_Key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OE_9hGrwt7drhFg_AnNG-9" value="Key_Block" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
