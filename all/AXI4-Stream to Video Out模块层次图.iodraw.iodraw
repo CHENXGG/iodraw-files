@@ -14,7 +14,19 @@
           <mxGeometry x="360" y="230" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vuTRpgB1cyIJDtGVe6S_-4" value="axi4s_to_vid_out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="240" width="160" height="20" as="geometry" />
+          <mxGeometry x="410" y="260" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vuTRpgB1cyIJDtGVe6S_-5" value="axi4s_to_vid_out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vuTRpgB1cyIJDtGVe6S_-6" value="axi4s_to_vid_out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vuTRpgB1cyIJDtGVe6S_-7" value="axi4s_to_vid_out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vuTRpgB1cyIJDtGVe6S_-8" value="axi4s_to_vid_out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
