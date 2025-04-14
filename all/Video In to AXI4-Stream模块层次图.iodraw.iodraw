@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9sSOqKX_cBgzJqM8q3k2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9sSOqKX_cBgzJqM8q3k2-1" value="vid_in_axi4s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9sSOqKX_cBgzJqM8q3k2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9sSOqKX_cBgzJqM8q3k2-2" value="coupler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9sSOqKX_cBgzJqM8q3k2-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9sSOqKX_cBgzJqM8q3k2-3" value="formatter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="230" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9sSOqKX_cBgzJqM8q3k2-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
