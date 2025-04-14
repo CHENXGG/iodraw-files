@@ -5,18 +5,15 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vuTRpgB1cyIJDtGVe6S_-1" value="axi4s_to_vid_out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="160" height="20" as="geometry" />
+          <mxGeometry x="320" y="170" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vuTRpgB1cyIJDtGVe6S_-2" value="axi4s_to_vid_out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vuTRpgB1cyIJDtGVe6S_-2" value="cdc_single" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vuTRpgB1cyIJDtGVe6S_-3" value="axi4s_to_vid_out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vuTRpgB1cyIJDtGVe6S_-3" value="coupler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vuTRpgB1cyIJDtGVe6S_-4" value="axi4s_to_vid_out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="260" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vuTRpgB1cyIJDtGVe6S_-5" value="axi4s_to_vid_out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vuTRpgB1cyIJDtGVe6S_-5" value="fifo_async" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vuTRpgB1cyIJDtGVe6S_-6" value="axi4s_to_vid_out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
