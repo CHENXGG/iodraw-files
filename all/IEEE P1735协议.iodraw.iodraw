@@ -19,6 +19,15 @@
         <mxCell id="OE_9hGrwt7drhFg_AnNG-6" value="加密算法AES128-CBC" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="380" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OE_9hGrwt7drhFg_AnNG-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="350" as="sourcePoint" />
+            <mxPoint x="300" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OE_9hGrwt7drhFg_AnNG-8" value="加密算法AES128-CBC" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
