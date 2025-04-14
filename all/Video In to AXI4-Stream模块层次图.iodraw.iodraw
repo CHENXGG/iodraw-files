@@ -8,7 +8,16 @@
           <mxGeometry x="280" y="200" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9sSOqKX_cBgzJqM8q3k2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="210" width="160" height="20" as="geometry" />
+          <mxGeometry x="320" y="260" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSOqKX_cBgzJqM8q3k2-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSOqKX_cBgzJqM8q3k2-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSOqKX_cBgzJqM8q3k2-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
