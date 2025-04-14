@@ -115,6 +115,9 @@
         <mxCell id="NH2Jk8Im8el7TrX0zaIE-2" value="axi_vdma_cdc" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="NH2Jk8Im8el7TrX0zaIE-3" value="axi_vdma_reg_module" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="160" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
