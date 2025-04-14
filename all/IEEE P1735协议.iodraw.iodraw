@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OE_9hGrwt7drhFg_AnNG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OE_9hGrwt7drhFg_AnNG-1" target="OE_9hGrwt7drhFg_AnNG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OE_9hGrwt7drhFg_AnNG-1" value="源码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="310" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OE_9hGrwt7drhFg_AnNG-2" value="加密的代码&lt;div&gt;DataBlock&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="310" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OE_9hGrwt7drhFg_AnNG-4" value="Data_Key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
