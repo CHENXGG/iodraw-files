@@ -20,7 +20,7 @@
           <mxGeometry x="360" y="200" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-6" value="axi_vdma_reg_if" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="320" y="350" width="160" height="20" as="geometry" />
+          <mxGeometry x="320" y="260" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Shq-JLEXuI5hYmU0OIwC-7" value="axi_vdma_lite_if" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="360" y="380" width="160" height="20" as="geometry" />
