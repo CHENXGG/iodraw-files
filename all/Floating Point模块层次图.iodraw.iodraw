@@ -58,6 +58,9 @@
         <mxCell id="qJ-6u4cd9P4upyFLigOo-16" value="flt_sqrt" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="270" y="570" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="qJ-6u4cd9P4upyFLigOo-17" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;flt_dec_op_lat&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="600" width="160" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
