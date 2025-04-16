@@ -75,8 +75,11 @@
         <mxCell id="LPNca6ZnxGgnebkl2slK-9" value="delay_bit" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="440" y="500" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LPNca6ZnxGgnebkl2slK-10" value="delay_bit" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="LPNca6ZnxGgnebkl2slK-10" value="cordic_round" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="440" y="530" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LPNca6ZnxGgnebkl2slK-11" value="cordic_round" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="450" y="540" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
