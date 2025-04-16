@@ -72,7 +72,7 @@
         <mxCell id="vuTRpgB1cyIJDtGVe6S_-5" value="cordic_inp_config" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="400" y="260" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LPNca6ZnxGgnebkl2slK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vuTRpgB1cyIJDtGVe6S_-6" target="LPNca6ZnxGgnebkl2slK-5">
+        <mxCell id="LPNca6ZnxGgnebkl2slK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vuTRpgB1cyIJDtGVe6S_-6" target="LPNca6ZnxGgnebkl2slK-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="420" />
@@ -129,13 +129,6 @@
         </mxCell>
         <mxCell id="LPNca6ZnxGgnebkl2slK-12" value="delay_bit" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="440" y="350" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LPNca6ZnxGgnebkl2slK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LPNca6ZnxGgnebkl2slK-1" target="LPNca6ZnxGgnebkl2slK-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="542" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
