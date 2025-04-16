@@ -112,7 +112,7 @@
         <mxCell id="qJ-6u4cd9P4upyFLigOo-34" value="flt_log_rr" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="560" y="450" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qJ-6u4cd9P4upyFLigOo-35" value="compare_gt" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="qJ-6u4cd9P4upyFLigOo-35" value="flt_log_taylor" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="560" y="480" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qJ-6u4cd9P4upyFLigOo-36" value="renorm_and_round_logic" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
