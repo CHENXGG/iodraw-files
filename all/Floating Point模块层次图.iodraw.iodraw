@@ -82,6 +82,9 @@
         <mxCell id="qJ-6u4cd9P4upyFLigOo-24" value="flt_exp_ccm" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="560" y="150" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="qJ-6u4cd9P4upyFLigOo-25" value="flt_log_addsub" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="560" y="180" width="160" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
