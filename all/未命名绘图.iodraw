@@ -57,8 +57,11 @@
         <mxCell id="LPNca6ZnxGgnebkl2slK-1" value="cordic_out_config" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="390" y="430" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LPNca6ZnxGgnebkl2slK-3" value="cordic_eng" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="LPNca6ZnxGgnebkl2slK-3" value="addsub" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="440" y="290" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LPNca6ZnxGgnebkl2slK-4" value="addsub" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
