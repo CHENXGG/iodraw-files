@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vuTRpgB1cyIJDtGVe6S_-3" value="synth" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="vuTRpgB1cyIJDtGVe6S_-3" value="cordic_synth" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="360" y="230" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vuTRpgB1cyIJDtGVe6S_-5" value="fifo_async" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -46,6 +46,9 @@
         </mxCell>
         <mxCell id="vuTRpgB1cyIJDtGVe6S_-6" value="fifo_sync" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="400" y="290" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LPNca6ZnxGgnebkl2slK-1" value="fifo_async" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
