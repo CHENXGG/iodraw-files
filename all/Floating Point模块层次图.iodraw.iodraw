@@ -40,8 +40,11 @@
         <mxCell id="qJ-6u4cd9P4upyFLigOo-7" value="flt_dec_op" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="310" y="240" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qJ-6u4cd9P4upyFLigOo-8" value="flt_mult" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="270" y="280" width="160" height="20" as="geometry" />
+        <mxCell id="qJ-6u4cd9P4upyFLigOo-8" value="flt_div" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="260" y="430" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qJ-6u4cd9P4upyFLigOo-9" value="flt_mult_prim" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
