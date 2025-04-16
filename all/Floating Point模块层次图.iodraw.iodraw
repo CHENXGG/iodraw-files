@@ -130,6 +130,9 @@
         <mxCell id="qJ-6u4cd9P4upyFLigOo-40" value="compare_eq_im" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="560" y="630" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="qJ-6u4cd9P4upyFLigOo-41" value="compare_ne_im" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="560" y="660" width="160" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
